@@ -1,6 +1,5 @@
 /*
 Author: Jeziel Banos Gonzalez
-Course: CSC 352
 Description: Program reads a file and creates a undirected graph based on the
 values read on each line. Once the graph is created users are able to type the
 name of two cities. The program will then print out the minDistance between the
